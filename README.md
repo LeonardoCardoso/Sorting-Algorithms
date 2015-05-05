@@ -1,6 +1,8 @@
 Sorting-Algorithms
 ==================
 
+Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
+
 Quick set of sorting algorithms using Java.
 
 <ul>
